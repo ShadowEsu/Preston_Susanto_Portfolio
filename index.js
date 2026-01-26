@@ -342,7 +342,7 @@ function initInteractions() {
     });
 }
 
-// Ensure the render happens after DOM is fully ready
+// Initial render logic
 if (document.readyState === 'loading') {
     window.addEventListener('DOMContentLoaded', renderApp);
 } else {
