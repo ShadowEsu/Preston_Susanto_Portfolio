@@ -1,4 +1,4 @@
-# Preston Jay Susanto - Elite Portfolio
+# Preston Susanto - Elite Portfolio
 
 A high-performance personal portfolio website built with pure Vanilla JS, CSS3, and HTML5.
 
