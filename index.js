@@ -46,6 +46,7 @@ const APP_DATA = {
     leadership: [
         { year: "2025", role: "GDG Software Officer", org: "Google Developer Group", impact: "Leading 20+ active student developers in tech projects." },
         { year: "2025", role: "AGS Webmaster", org: "Alpha Gamma Sigma Honors", impact: "Managing digital infrastructure and accessibility standards." },
+        { year: "2025", role: "Project Leader", org: "Code the Change", impact: "Involved with non-profit organisation impacting 100+ people in the slums of borneo, concerntrating on webste development and social media impact." },
         { year: "2024", role: "Hack Club Founder", org: "Wesley College", impact: "Created a sustainable tech community for 20+ members." },
         { year: "2021-2024", role: "3x Team Captain", org: "Volleyball, Soccer, Basketball", impact: "Led diverse teams to competitive success." }
     ],
